@@ -1,1 +1,1 @@
-web: gunicorn financial.wsgi
+web: gunicorn armanonlineshop.wsgi

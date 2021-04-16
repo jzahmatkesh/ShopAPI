@@ -1,4 +1,4 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "/Users/javadzahmatkesh/.local/share/virtualenvs/Financial-C2mAS7JP/bin/python"
+    "python.pythonPath": "/usr/local/bin/python3"
 }

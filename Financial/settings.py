@@ -30,7 +30,7 @@ SECRET_KEY = 'pd!=psic1^6i*--r7(5&@%%6+y650p9!@tqt5h6!hw^3jiq-5$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['armanonlineshop.herokuapp.com']
 
 
 # Application definition
